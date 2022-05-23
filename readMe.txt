@@ -1,4 +1,5 @@
-DOO Dongkyu(20379251)
+
+COMP4411 Computer Graphics
 Project 1: Impressionist
 Completed Bonus List
 
